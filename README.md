@@ -21,5 +21,6 @@ jb: error: failed to install packages: downloading: symlink destination path doe
 ```
 
 This error is exhibited with `jb` version 0.4.0 and the top of tree at time of
-writing
-(jsonnet-bundler/jsonnet-bundler#6bb2d1af6c8a6522cfe74e7a9cf49619d18448a1).
+writing: https://github.com/jsonnet-bundler/jsonnet-bundler/commit/6bb2d1af6c8a6522cfe74e7a9cf49619d18448a1.
+
+The following PR corrects the issue: https://github.com/jsonnet-bundler/jsonnet-bundler/pull/151.
