@@ -1,0 +1,14 @@
+{
+  "version": 1,
+  "dependencies": [
+    {
+      "source": {
+        "local": {
+          "directory": "../module_B"
+        }
+      },
+      "version": ""
+    }
+  ],
+  "legacyImports": false
+}
